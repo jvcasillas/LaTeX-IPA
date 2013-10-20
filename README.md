@@ -12,4 +12,4 @@ Ex. voiceless-bilabial-aprox.sublime-snippet = [β]
 Vowels are labeled in the following way:
 vowel - tense/lax - height - frontedness - rounding
 
-Ex. vowel-tense-high-front-unrounded.sublime-snippet = /i/
+Ex. vowel-tense-high-front-unrounded.sublime-snippet = [i]
