@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+\begin{center}
+	{\scriptsize
+	\renewcommand{\arraystretch}{1.5}
+	\begin{tabular}{@{}|l|l|l|l|l|@{}}
+		\hline
+		Fonema & Alófono & Punto & Ejemplo & \\\ 
+		\hline                                                               
+		            & \textipa{[\textsubbar{l}] + /T/}              & interdental    &  “el cielo” & \textipa{[e\textbf{\textsubbar{l}.\textprimstress T}\textsubarch{i}e.lo]} \\\
+		/L/ final   & [\textsubbridge{l}] + /t,d/                   & dental         &  “el dedo”  & \textipa{[e\textbf{\textsubbridge{l}.\textprimstress d}e.Do]} \\\ 
+		de sílaba   & [l] + /s,l,r/                                 & alveolar       &  “el cielo” & \textipa{[e\textbf{l.\textprimstress s}\textsubarch{i}e.lo]} \\\ 
+		            & \textipa{[\textipa{\:l}] + /\textteshlig/}    & alveopalatal   &  “al chico” & \textipa{[a\textbf{\:l.\textprimstress\textteshlig}i.ko]} \\\ 
+		            & \textipa{[l\textsuperscript{j}] + /\textctj/} & palatal        &  “el yate”  & \textipa{[e\textbf{l\textsuperscript{j}.\textprimstress\textctj}a.te]} \\\ 
+		\hline
+	\end{tabular}}
+\end{center}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
