@@ -13,3 +13,15 @@ Vowels are labeled in the following way:
 vowel - tense/lax - height - frontedness - rounding
 
 Ex. vowel-tense-high-front-unrounded.sublime-snippet = [i]
+
+### Tab triggers
+There are two main groups:
+Vowels: type "vowel" + tab
+Consontants: type "cons" + tab
+
+Consonants also have two subcategories:
+Liquids: type "liquid" + tab
+Nasals: type "nasal" + tab
+
+### Notes
+As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time.
