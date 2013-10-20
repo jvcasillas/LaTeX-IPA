@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-\textctj $0
+\textctj
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cons</tabTrigger>
+	<tabTrigger>fric</tabTrigger>
+	<description>Consonant: voiced palatal fricative</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex.latex</scope>
 </snippet>

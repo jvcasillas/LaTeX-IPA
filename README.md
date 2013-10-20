@@ -12,14 +12,14 @@ vowel - tense/lax - height - frontedness - rounding
 Ex. vowel-tense-high-front-unrounded.sublime-snippet = [i]
 
 ### Tab triggers
-There are three main groups:  
+There are 6 main groups:  
 **Diacritics**: type "diac" + tab  
 **Vowels**: type "vowel" + tab  
-**Consontants**: type "cons" + tab
-
-Consonants also have two subcategories:  
+Consonants are divided into four subcategories:  
+**Fricatives** type "fric" + tab  
+**Affricates** type "affr" + tab  
 **Liquids**: type "liquid" + tab  
 **Nasals**: type "nasal" + tab
 
 ### Notes  
-As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time. Specifically, I plan to change the "cons" tab trigger and use the mode of articulation to divide groups. 
+As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time. It should be noted that the consonants do not include all categories (i.e. stops). This is because they are not represented by unsual symbols in IPA. 
