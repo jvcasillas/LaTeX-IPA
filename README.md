@@ -17,17 +17,19 @@ vowel - tense/lax - height - frontedness - rounding
 Ex. vowel-tense-high-front-unrounded.sublime-snippet = [i]
 
 ### Tab triggers
-There are two main groups:
+There are three main groups:
 
-Vowels: type "vowel" + tab
+	Diacritics: type "diac" + tab
 
-Consontants: type "cons" + tab
+	Vowels: type "vowel" + tab
+
+	Consontants: type "cons" + tab
 
 Consonants also have two subcategories:
 
-Liquids: type "liquid" + tab
+	Liquids: type "liquid" + tab
 
-Nasals: type "nasal" + tab
+	Nasals: type "nasal" + tab
 
 ### Notes
-As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time.
+As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time. Specifically, I plan to change the "cons" tab trigger and use the mode of articulation to divide groups. 
