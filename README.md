@@ -1,6 +1,6 @@
 LaTeX-IPA
 =========
-This is a compilation of snippets for the TIPA package in LaTeX. It is not exhaustive, but I plan to continue adding more.
+This is a compilation of snippets for the TIPA package in LaTeX. It is not exhaustive, but I plan to continue adding more. Check out the [project page](www.jvcasillas/LaTeX-IPA)
 
 ### File naming  
 Consonants are labeled in the following way:  
