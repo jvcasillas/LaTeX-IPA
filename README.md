@@ -24,4 +24,4 @@ Consonants are divided into four subcategories:
 ### Notes  
 As of now (10/19/2013), I have only included the symbols that I use the most in English and Spanish. I will continue adding to the repository over time. It should be noted that the consonants do not include all categories (i.e. stops). This is because they are not represented by unsual symbols in IPA. 
 
-[project page]: http://www.jvcasillas/LaTeX-IPA
+[project page]: http://www.jvcasillas.com/LaTeX-IPA
